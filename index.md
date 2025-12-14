@@ -25,3 +25,4 @@ La energía se define como:
 float rms(float x) {
     return sqrt(x*x);
 }
+```
